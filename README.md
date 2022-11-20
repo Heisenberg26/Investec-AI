@@ -1,2 +1,2 @@
 # Investec@AI
-Fintech Platform providing borking and investment services for PRE-IPO startups
+Fintech Platform providing broking and investment services for PRE-IPO startups
